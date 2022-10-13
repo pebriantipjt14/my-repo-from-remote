@@ -1,2 +1,3 @@
-print ('Hallo Dunia !')
-print ('Belajar AI !')
+print ('Hallo Orbit !')
+print ('Belajar ML !')
+print ('Yes !')
